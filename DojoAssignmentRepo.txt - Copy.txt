@@ -1,0 +1,12 @@
+1. cd DojoAssignments
+2. git init
+3. git add . 
+   git commit -m 
+   git remote add origin https://github.com/AndreErving/DojoAssignments.git
+   git push -u origin master
+4. cd DojoAssignments
+   touch readMe.md
+5. git status
+   git add . 
+   git commit -m 
+   git push -u origin master

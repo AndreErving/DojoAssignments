@@ -1,0 +1,250 @@
+
+#container{
+  position: absolute;
+  width: 800px;
+  height: auto;
+  display: inline-block;
+  background-color: #527a7a;
+}
+
+#header{
+   width: 800px;
+  height: 40px;
+  border-radius: 5px;
+  background-color:#a3c2c2;
+  font-size: 30px;
+}
+
+h1{
+  text-align: center;
+}
+
+
+#bottom{
+  width: 800px;
+  height: 30px;
+  position: absolute;
+  top: 2100px;
+  border-radius: 5px;
+  background-color:#a3c2c2;
+  font-size: 20px;
+}
+
+.p1 {
+	
+  text-align: center;
+}
+.p2{
+	
+  text-align: center;
+}
+.p3{
+	display: none;
+  text-align: center;
+}
+.p4{
+	
+  text-align: center;
+}
+.p5, .button5{
+	left: 100px;
+  text-align: center;
+  background-color: #e5eecc;
+  width: 600px;
+}
+.p6, .button6{
+	left: 100px;
+  text-align: center;
+  background-color: #e5eecc;
+  width: 600px;
+}
+.p5{
+	
+	padding: 50px;
+	display: none;
+}
+.p6{
+	padding: 50px;
+}
+.p7{
+	
+  text-align: center;
+}
+.p8{
+
+  text-align: center;
+}
+.p9{
+
+  text-align: center;
+}
+.p10{
+
+  text-align: center;
+}
+.p11{
+
+  text-align: center;
+}
+.p12{
+
+  text-align: center;
+}
+.p13{
+
+  text-align: center;
+}
+.p14{
+
+  text-align: center;
+}
+.p15{
+
+  text-align: center;
+}
+.p16{
+
+  text-align: center;
+}
+.p17{
+
+  text-align: center;
+}
+.p18{
+
+  text-align: center;
+}
+.p19{
+	position: relative;
+	bottom: 16px;
+  text-align: center;
+}
+.input{
+
+  text-align: center;
+}
+.img1{
+	display: block;
+	margin: auto;
+}
+
+.button1{
+  display: block;
+  position: absolute;
+  top: 77px;
+  left: 150px;
+}
+.button2{
+  display: block;
+  position: absolute;
+  top: 173px;
+  left: 170px;
+}
+.button3{
+  display: block;
+  position: absolute;
+  top: 280px;
+  left: 170px;
+}
+.button4{
+  display: block;
+  position: absolute;
+  top: 390px;
+  left: 170px;
+}
+.button5{
+  display: inline-block;
+  position: absolute;
+  top: 505px;
+	left: 100px;
+}
+.button6{
+  display: inline-block;
+  position: absolute;
+  top: 585px;
+	left: 100px;
+}
+.button7{
+  display: inline-block;
+  position: absolute;
+  top: 670px;
+	left: 170px;
+}
+.button8{
+  display: block;
+  position: absolute;
+  top: 785px;
+	left: 120px;
+}
+.button9{
+  display: block;
+  position: absolute;
+  top: 785px;
+	left: 200px;
+}
+.button10{
+  display: block;
+  position: absolute;
+  top: 902px;
+	left: 180px;
+}
+.button11{
+  display: block;
+  position: absolute;
+  top: 1020px;
+	left: 190px;
+}
+.button12{
+  display: block;
+  position: absolute;
+  top: 1134px;
+	left: 190px;
+}
+.button13{
+  display: block;
+  position: absolute;
+  top: 1250px;
+	left: 190px;
+}
+.button14{
+  display: block;
+  position: absolute;
+  top: 1250px;
+	left: 190px;
+}
+.button14{
+  display: block;
+  position: absolute;
+  top: 1596px;
+	left: 190px;
+}
+.button15{
+  display: block;
+  position: absolute;
+  top: 1710px;
+	left: 190px;
+}
+.button16{
+  display: block;
+  position: absolute;
+  top: 1865px;
+	left: 190px;
+}
+.button17{
+  display: block;
+  position: absolute;
+  top: 1980px;
+	left: 190px;
+}
+.button18{
+  display: block;
+  position: absolute;
+  top: 2017px;
+	left: 190px;
+}
+hr{
+	width: 600px;
+}
+.red{
+  color:red;
+}

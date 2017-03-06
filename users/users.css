@@ -1,0 +1,30 @@
+table{
+width: 500px;
+border-style: solid ;
+margin: auto;
+}
+
+hr{
+	width: 400px;
+}
+table{
+	border-collapse: collapse;
+}
+th{
+	text-align: center;
+	font-weight: bold;
+}
+h1{
+	text-align: center;
+}
+
+#container{
+	width: 400px;
+	margin: auto;
+	
+}
+form{
+	display: block;
+	margin: auto;
+	
+}
